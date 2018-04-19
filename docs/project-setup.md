@@ -38,7 +38,7 @@ Add the `WebVRCameraSet` prefab (`Assets > WebVR > Prefabs > WebVRCameraSet.pref
 
 ## 5. Add controller models to `WebVRCamera` component.
 
-Set up `GameObject`s that you would like to be used for left/hand controllers by attaching them to the `WebVRCameraSet` component `Left Hand Obj` and `Right Hand Obj` fields.
+Set up `GameObject`s that you would like to be used for left/right hand controllers by attaching them to the `WebVRCameraSet` component `Left Hand Obj` and `Right Hand Obj` fields.
 
 ![Controller setup](https://raw.githubusercontent.com/mozilla/unity-webvr-export/master/docs/images/attach-controllers.gif)
 
